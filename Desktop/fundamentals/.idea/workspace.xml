@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74b6935f-c5bc-4898-b7db-a2016a2155d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lnSVku02g4XGu6h1y77vXdXMOI" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deep dive bootcamp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../deep dive bootcamp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.objects-apis.js">
+    <configuration name="conditionals-and-functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../fundamentals/conditionals-and-functions.js" working-dir="$PROJECT_DIR$/../fundamentals">
+      <method v="2" />
+    </configuration>
+    <configuration name="objects-apis.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../fundamentals/objects-apis.js" working-dir="$PROJECT_DIR$/../fundamentals">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.objects-apis.js" />
+        <item itemvalue="Node.js.conditionals-and-functions.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74b6935f-c5bc-4898-b7db-a2016a2155d6" name="Default Changelist" comment="" />
+      <created>1608231387526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608231387526</updated>
+      <workItem from="1608231388579" duration="9701000" />
+      <workItem from="1608261794287" duration="6000" />
+      <workItem from="1608262047976" duration="13000" />
+      <workItem from="1608286404069" duration="97000" />
+      <workItem from="1608286540003" duration="511000" />
+      <workItem from="1608289654120" duration="9000" />
+      <workItem from="1608942439694" duration="53000" />
+      <workItem from="1609527122760" duration="2000" />
+      <workItem from="1609807181511" duration="282000" />
+      <workItem from="1609808155850" duration="3000" />
+      <workItem from="1609808207433" duration="1000" />
+      <workItem from="1609808916581" duration="120000" />
+      <workItem from="1609827357730" duration="1401000" />
+      <workItem from="1609871444749" duration="405000" />
+      <workItem from="1609955763177" duration="89000" />
+      <workItem from="1609956819671" duration="1003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

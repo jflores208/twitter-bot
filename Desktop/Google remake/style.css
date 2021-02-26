@@ -1,0 +1,147 @@
+
+  img {
+     margin-left: 550px;
+     margin-top: 150px;
+     margin-bottom: 8px;
+     width: 315px;
+     height: 100px;
+
+  }
+
+
+
+.div-2 {
+    width: 450px;
+    margin-left: 550px;
+    text-size-adjust: 400px;
+    min-height: 60px;
+}
+
+#searchbar {
+    margin-left: -100px;
+    border-spacing: 100px;
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    border-style:inset;
+    margin-right: 250px;
+    border-color: gray;
+    
+ 
+    
+}
+
+i {
+  margin-left: 830px;
+  
+}
+
+.Gmail {
+  margin-left: 980px;
+  font-family: arial,sans-serif;
+  margin-right: 50px;
+  font-style:normal;
+  font-size: 5px;
+  font-weight:normal;
+  margin-bottom: 5px;
+  margin-top: 9px;
+  display:inline-flexbox;
+  display: inline-table;
+}
+
+.images {
+  margin-left: 1030px;
+  font-family: arial,sans-serif ;
+  font-size: 5px;
+  margin-top: 6px;
+  margin-bottom: 15px;
+  display:inline-flexbox;
+
+}
+
+.link {
+  margin-left: 900px;
+  font-style: normal;
+  text-decoration: none;
+  color: black;
+
+}
+
+  
+.link2 {
+  margin-left: 950px;
+}
+
+.top {
+  display: block;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+
+}
+
+#Store {
+  text-align: left;
+  margin-inline: inherit;
+  margin-inline-start: 15px;
+  margin-inline-end: 15px;
+  padding-left: 4px;
+  padding-right: 569px;
+}
+
+
+#Gmail {
+  text-align: right;
+  margin-inline:inherit;
+  margin-inline-start: 15px;
+  margin-inline-end: 15px;
+  padding-left: 569px;
+  
+
+}
+
+a {
+  color: black;
+  font-family: arial,sans-serif;
+  text-decoration: none;
+  text-emphasis: none;
+  text-size-adjust: 50px;
+  font-size: 12px;
+  font-weight:lighter;
+}
+
+button {
+  border:lightgray;
+  color:black;
+  font-size: 20px;
+  margin-top:-800px;
+  margin-left:538px;
+  margin-bottom: 200px;
+  margin-inline-end: 100px;
+  margin-block-end: 100px;
+  margin-bottom: 300px;
+  margin-right: -490px;
+  border-style:none;
+  font-weight: lighter;
+  font-style:initial;
+  border-spacing: 20px;
+}
+
+#Advertising {
+  text-align: right;
+  margin-inline: inherit;
+  margin-inline-start: 15px;
+  margin-inline-end: 15px;
+  
+}
+
+#Business {
+  text-align: left;
+  margin-inline:initial;
+  margin-inline-start: 15px;
+  margin-inline-end: 15px;
+  padding-left: 4px;
+  padding-right: 569px;
+}
+

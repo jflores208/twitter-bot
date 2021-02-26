@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.myflexbox {
+   background-color: cyan;
+   width: 500px;
+   display:flex;
+    
+}
+
+.container{
+    width:100%;
+    
+}
+
+
+.left {
+    width:70%;
+    background-color: hotpink;
+    
+}
+
+.right {
+    width:30%;
+    
+}
+
+
+
+@media (max-width:767px) {
+
+    .myflexbox{
+        flex-direction: column-reverse;
+    }
+
+
+    .container{
+        width:100%;
+
+}
+
+
+
+}
+
+
+

@@ -1,0 +1,81 @@
+:root {
+    font-size: 16px;
+}
+
+
+.container {
+    display:flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    align-content: center;
+    width:600px;
+}
+
+
+
+.myDiv {
+    width: 100px;
+    height:100px;
+    font-size: 1rem;
+    background-color: palevioletred;
+    flex-direction: column;
+
+
+    background-color: rgb(32, 175, 218);
+
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+
+
+
+
+@media (max-width: 800px) {
+
+    .myDiv {
+        font-size: 16px;
+        background-color: blue;
+
+    }
+
+
+
+}
+
+@media (max-width:600px) {
+    .myDiv {
+        font-size: 24px;
+        background-color: orange;
+    }
+}
+
+
+
+@media (max-width: 1600px) and (min-width: 1200)  {
+
+    .container {
+        flex-direction: column;
+        align-content:center;
+    }
+
+    .myDiv {
+        background-color: palegreen;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction:column;
+        
+
+    }
+    .myDiv {
+        font-size: 36px
+    }
+}
+
+
+
+
